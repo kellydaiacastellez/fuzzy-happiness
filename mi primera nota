@@ -1,0 +1,10 @@
+Class Saludo: 
+           Def ___init__(self, nombre):   #Metodo constructor
+           Self.nombre = nombre
+   
+           Def saludar(self):   #metodo para saludar
+           Pronto(f"Hola {self.nombte}, bienvenido al mundo de Python!")
+
+
+Persona = Saludo("Juan") #Crear objeto de la clase 
+Persona.Saludar() #Ejecutar Metodo
